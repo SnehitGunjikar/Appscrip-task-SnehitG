@@ -72,7 +72,7 @@ export default function Footer() {
             <h4>CONNECT WITH US</h4>
             <div className={styles.socialIcons}>
               <Image
-                src="/icons/insta.svg"
+                src="/icons/instagram.svg"
                 alt="Instagram"
                 width={32}
                 height={32}
