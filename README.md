@@ -2,6 +2,9 @@
 
 LOGO - StyleHub Marketplace is a modern e-commerce web application built with Next.js, showcasing a collection of fashion, jewelry, and electronic products. The application features a responsive design, product filtering, and a clean user interface.
 
+## App Link
+Check out the App here: https://appscrip-task-snehit-g.vercel.app/
+
 ## Features
 
 - **Product Catalog**: Browse through a collection of products with images and details
@@ -94,6 +97,9 @@ yarn start
 # or
 pnpm start
 ```
+##  API Used
+
+All the products are being fetched from [https://fakestoreapi.com/](https://fakestoreapi.com/).
 
 ## Component Structure
 
