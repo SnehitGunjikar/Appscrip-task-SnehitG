@@ -1,6 +1,6 @@
-# StyleHub Marketplace
+# LOGO - StyleHub Marketplace
 
-StyleHub Marketplace is a modern e-commerce web application built with Next.js, showcasing a collection of fashion, jewelry, and electronic products. The application features a responsive design, product filtering, and a clean user interface.
+LOGO - StyleHub Marketplace is a modern e-commerce web application built with Next.js, showcasing a collection of fashion, jewelry, and electronic products. The application features a responsive design, product filtering, and a clean user interface.
 
 ## Features
 
