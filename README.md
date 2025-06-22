@@ -4,11 +4,11 @@ StyleHub Marketplace is a modern e-commerce web application built with Next.js, 
 
 ## Features
 
-- **Responsive Design**: Fully responsive layout that works on mobile, tablet, and desktop devices
 - **Product Catalog**: Browse through a collection of products with images and details
 - **Category Navigation**: Navigate between different product categories
 - **Product Filtering**: Filter products by various categories and attributes
 - **Modern UI**: Clean and modern user interface with smooth interactions
+- **Responsive Design**: Fully responsive layout that works on mobile, tablet, and desktop devices
 
 ## Technologies Used
 
