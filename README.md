@@ -1,4 +1,9 @@
 # LOGO - StyleHub Marketplace
+![App](https://img.shields.io/badge/AppScrip-Blue)
+![Version](https://img.shields.io/badge/version-0.1.0-green)
+![React](https://img.shields.io/badge/React-19.0.0-61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-15.3.4-black?logo=next.js)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
 LOGO - StyleHub Marketplace is a modern e-commerce web application built with Next.js, showcasing a collection of fashion, jewelry, and electronic products. The application features a responsive design, product filtering, and a clean user interface.
 
